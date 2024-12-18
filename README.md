@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp2852493.jpg)
+
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate  developer from Bulgaria</h3>
 
